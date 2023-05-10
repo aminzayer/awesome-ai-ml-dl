@@ -1,10 +1,11 @@
 # Visualisation
 
 ## Tools, Libraries, Packages, Frameworks
-  - [Vega](https://skillsmatter.com/skillscasts/12257-vega-a-grammar-of-interactive-graphics) [deadlink] | [Vega: Homepage](https://vega.github.io) | [Vega: GitHub](https://github.com/vega) | [Vega-lite](https://vega.github.io/vega-lite/)
+  - [Vega: a grammar of interactive graphics](https://skillsmatter.com/skillscasts/12257-vega-a-grammar-of-interactive-graphics) | [Vega: Homepage](https://vega.github.io) | [Vega: GitHub](https://github.com/vega) | [Vega-lite](https://vega.github.io/vega-lite/)
   - [Matplotlib](https://www.dataquest.io/blog/matplotlib-tutorial/) | [Matplotlib gallery](https://matplotlib.org/3.2.2/gallery/index.html) [1](https://matplotlib.org/gallery.html)[2](https://pythonspot.com/matplotlib-gallery/)[3](https://python-graph-gallery.com/matplotlib/)[4](https://github.com/rasbt/matplotlib-gallery)
   - [Seaborn](https://lnkd.in/gih7hqz)
   - [Plotly](https://lnkd.in/gBYBMXc) | [Think Data Visualization? Think Plotly!](https://www.linkedin.com/posts/philipvollet_datascience-datascientist-analytics-activity-6715195138328674304-WAXn)
+  - [Vizzu](https://vizzuhq.com/) - for building animated charts and data stories in JavaScript ([Vizzu](https://github.com/vizzuhq/vizzu-lib)) and Python ([IPyVizzu](https://github.com/vizzuhq/ipyvizzu))
   - [AutoPlotter • GUI based Exploratory Data Analysis (EDA) Search easily for missing values, data distribution & trends, outliers etc](https://www.linkedin.com/posts/philipvollet_analytics-data-dataexploration-activity-6691932081448218624-5xNy)
   - [Python Graph Gallery](https://lnkd.in/gdGe-ef)
   - [Algovis is a python library made for visualizing algorithms](https://www.linkedin.com/posts/stevenouri_innovation-machinelearning-python-activity-6694175551722278912-EfSP)
@@ -39,7 +40,7 @@ data visualisation. Magic from spreadsheets. Next-level storytelling. Embed on y
   - [latexify_py generates LaTeX math description from Python functions](https://www.linkedin.com/posts/philipvollet_python-latex-math-activity-6700350819059007488-JEJr)
   - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 
-## Implmentations and examples
+## Implementations and examples
 
   - [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
   - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
@@ -62,7 +63,7 @@ data visualisation. Magic from spreadsheets. Next-level storytelling. Embed on y
 
 ## Posts, articles, papers and other resources
   - [A very neat and in-depth course on #datavisualization by Ilya Kashnitsky:](https://www.linkedin.com/posts/sanyambhutani_datavisualization-dataviz-datavizualization-activity-6690445984163528704--iuh) [GitHub](https://lnkd.in/eMicn7J)
-  - [mini-course in Kaggle if you want to know more about GIS.](https://www.kaggle.com/learn/geospatial-analysis](https://www.kaggle.com/learn/data-visualization)
+  - mini-course in Kaggle if you want to know more about GIS: [1](https://www.kaggle.com/learn/geospatial-analysis) | [2](https://www.kaggle.com/learn/data-visualization)
   - [Courses by the University of Helsinki](https://automating-gis-processes.github.io/site/) 
   - [Visualisation Kaggle kernel (follium 1)](https://www.kaggle.com/bhanvimenghani/folium-chai-eda) 
   - [Visualisation Kaggle kernel (follium 2)](https://www.kaggle.com/pompelmo/chaieda-police-violence)
@@ -112,25 +113,30 @@ data visualisation. Magic from spreadsheets. Next-level storytelling. Embed on y
   - [Creating beautiful maps with Python](https://towardsdatascience.com/creating-beautiful-maps-with-python-6e1aae54c55c)
 
 ## Books and other resources
+  - [Data-to-viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
+  - [Dataviz Inspiration](https://www.dataviz-inspiration.com/) - aims at being the biggest list of chart examples available on the web. It showcases 149 of the most beautiful and impactful dataviz projects I know. The collection is a good place to visit when you're designing a new graph, together with data-to-viz.com that shares dataviz best practices.
   - [Italo Calvino: text & data | data visualization book by Hanna Piotrowska (Dyrcz)](https://www.behance.net/gallery/83315693/Calvinos-book-text-data-data-visualization?fbclid=IwAR0zj9iwNSDOp2x7n8Kh-CaKaJ3vZjGHfWMIloWZklNuH_QQKzpMxnQOXUM)
   - [Fire plus Algebra Resources](https://www.fireplusalgebra.com/resources) on [Fire Plus Algebra's website](https://www.fireplusalgebra.com/)
     - [Photography, illustration and icon resources](https://www.fireplusalgebra.com/image-and-icon-resources)
-  - [Telling Human Stories With Data (skillscast)](https://skillsmatter.com/skillscasts/14252-telling-human-stories-with-data) [deadlink] by [Alan Rutter](https://www.fireplusalgebra.com/about)
+  - [Telling Human Stories With Data (skillscast)](https://skillsmatter.com/skillscasts/14252-telling-human-stories-with-data) by [Alan Rutter](https://www.fireplusalgebra.com/about)
   - Resources kindly recommended by [Alan Rutter](https://www.fireplusalgebra.com/about)
     - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
     - [Flowing Data](https://flowingdata.com/) | [About Nathan Yau](https://flowingdata.com/about-nathan/)
     - [Information is Beautiful](https://informationisbeautiful.net/)
     - [WTF Visualizations](https://viz.wtf/) - Visualizations that make no sense, worst examples to NOT do and learn from!
   - [Visual Capitalists](https://www.visualcapitalist.com/) - real world, info-graphics like examples of various visualisations
-  - ["𝘼 𝙜𝙤𝙤𝙙 𝙫𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙖𝙩𝙞𝙤𝙣 𝙞𝙨 𝙣𝙤𝙩 𝙟𝙪𝙨𝙩 𝙖 𝙥𝙞𝙘𝙩𝙪𝙧𝙚; 𝙞𝙩 𝙞𝙨 𝙖 𝙨𝙩𝙤𝙧𝙮. 𝙏𝙝𝙚 𝙨𝙩𝙤𝙧𝙮 𝙤𝙛 𝙤𝙣𝙚’𝙨 𝙟𝙤𝙪𝙧𝙣𝙚𝙮 𝙞𝙣 𝙩𝙝𝙚 𝙙𝙖𝙩𝙖."](https://towardsdatascience.com/march-edition-data-visualization-71d6d8d6d317) (Towards Data Science's best stories on data visualization) [LinkedIn post](https://www.linkedin.com/posts/parulpandeyindia_march-edition-data-visualization-activity-6641201649878691840-Bwmr) 
+  - ["𝘼 𝙜𝙤𝙤𝙙 𝙫𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙖𝙩𝙞𝙤𝙣 𝙞𝙨 𝙣𝙤𝙩 𝙟𝙪𝙨𝙩 𝙖 𝙥𝙞𝙘𝙩𝙪𝙧𝙚 𝙞𝙩 𝙞𝙨 𝙖 𝙨𝙩𝙤𝙧𝙮. 𝙏𝙝𝙚 𝙨𝙩𝙤𝙧𝙮 𝙤𝙛 𝙤𝙣𝙚’𝙨 𝙟𝙤𝙪𝙧𝙣𝙚𝙮 𝙞𝙣 𝙩𝙝𝙚 𝙙𝙖𝙩𝙖."](https://towardsdatascience.com/march-edition-data-visualization-71d6d8d6d317) (Towards Data Science's best stories on data visualization) [LinkedIn post](https://www.linkedin.com/posts/parulpandeyindia_march-edition-data-visualization-activity-6641201649878691840-Bwmr)
   - [Data Visualization is a very important step in Data Science, so we should try to MASTER it](https://www.linkedin.com/posts/asif-bhat_datascience-dataanalysis-datavisualization-activity-6638314252216176640-A27g)
   - [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
-  - [Effective Visualization Techniques for Data Discovery and Analysis](https://www.jmp.com/en_us/whitepapers/jmp/effective-visualization-techniques.html](https://www.jmp.com/content/dam/jmp/documents/en/white-papers/wp-effective-viz-104502.pdf) 
+  - Effective Visualization Techniques for Data Discovery and Analysis: [1](https://www.jmp.com/en_us/whitepapers/jmp/effective-visualization-techniques.html) | [2](https://www.jmp.com/content/dam/jmp/documents/en/white-papers/wp-effective-viz-104502.pdf)
   - [The Visual Perception of Variation in Data Displays](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
   - [An Infographic of “Data Science Landscape”](https://www.youtube.com/dataprofessor) [LinkedIn post](https://www.linkedin.com/posts/chanin-nantasenamat_datascience-machinelearning-ai-activity-6634129557907705856-G6JN)
   - [The Data Science Ecosystem in One Tidy Infographic](https://www.datasciencecentral.com/profiles/blogs/the-data-science-ecosystem-in-one-tidy-infographic) [LinkedIn Post](https://www.linkedin.com/posts/data-science-central_the-data-science-ecosystem-in-one-tidy-infographic-activity-6635188705470533632-jmGY)
   - [Drawing Attention to Climate Change With Interactive Generative Art](https://www.datasciencecentral.com/profiles/blogs/drawing-attention-to-climate-change-with-interactive-generative) [LinkedIn post](https://www.linkedin.com/posts/data-science-central_drawing-attention-to-climate-change-with-activity-6651300865799962624-0-5d)
   - [Data Visualization for KPI and KRI](https://www.linkedin.com/posts/nabihbawazir_datascience-machinelearning-artificialintelligence-activity-6637544069860024320-JNPk)
+  - [Book: Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations](https://www.amazon.it/Good-Charts-Smarter-Persuasive-Visualizations/dp/1633690709)
+  - [Genuine Impact Newsletter](https://genuineimpact.substack.com/) - We use simple and beautiful charts to visualize complex financial data. Also write stock deep-dives and investment philosophies
+
 
 # Contributing
 
